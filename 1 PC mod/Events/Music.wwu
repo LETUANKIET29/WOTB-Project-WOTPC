@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{493DE7EE-033A-4512-9D15-7038E79700D3}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Music" ID="{493DE7EE-033A-4512-9D15-7038E79700D3}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Music_Battle" ID="{CB13D8FE-7110-45CA-BAC3-E4912AA87DA1}" ShortID="678840625"/>
+				<Folder Name="Music_Maps" ID="{F104F416-7DA7-4815-B9AD-8FF0EE45F6AE}" ShortID="643889210">
+					<ChildrenList>
+						<Event Name="Music_America_Lakville" ID="{50F6F036-4A9B-486A-A1DD-1F0E589DD066}">
+							<ChildrenList>
+								<Action Name="" ID="{7E4738DE-FA35-4544-BAC8-93DC2557AFBA}" ShortID="25211366">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Lakeville" ID="{D37E5E6D-F930-4CF1-B8C0-D3188D7F6E50}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_America_Overlord" ID="{B996DEA0-F6FD-45AF-A858-DB5498314565}">
+							<ChildrenList>
+								<Action Name="" ID="{6F2852B8-525D-44C6-9BFD-DF1CE2D7EBC6}" ShortID="1063151977">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="overlord" ID="{0A36BFFB-FFBF-4C60-B224-8A34EEF75B67}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Chinese" ID="{062309E2-BEA2-4BE2-A8F2-10B2B7250F9F}">
+							<ChildrenList>
+								<Action Name="" ID="{677E43A2-DF69-4B4D-9102-E58CF38B73A3}" ShortID="446355867">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="chinese" ID="{A897852B-D9D3-4079-B3D5-F7C1D44CDC77}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Desert_Airfield" ID="{74F49F83-2093-4918-B1F2-361B8C797CAC}">
+							<ChildrenList>
+								<Action Name="" ID="{0B9B018C-EC2D-4587-963D-532CA8A0A51A}" ShortID="182268354">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="himmerheim" ID="{4C3D6106-E2A4-4C4F-973F-394DB9E9C6A5}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Desert_Sand_River" ID="{7D3101C0-967C-4DAA-AF34-BF13D6865170}">
+							<ChildrenList>
+								<Action Name="" ID="{89C66B43-99E9-47F0-B059-25710B414494}" ShortID="253919991">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="sand river" ID="{5932B0F8-214F-42F7-B357-E933744CD237}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Europe_Himmelsdorf" ID="{02D6A882-94B5-4930-BF34-1D062E779F34}">
+							<ChildrenList>
+								<Action Name="" ID="{6D2CEFF1-2A89-4FF3-8CB8-A97CA7FCD6BB}" ShortID="893974093">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="himmersdoft" ID="{094B9153-6546-4072-BF85-BCCE96DB3520}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Europe_Mannerheim" ID="{8A783361-708A-4B17-9382-9D172661B167}">
+							<ChildrenList>
+								<Action Name="" ID="{DD60BE7E-465A-41DB-B244-B481BDD1758E}" ShortID="671003239">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="manherm" ID="{FBC1F6F1-6F25-445D-85A8-2AB11EB889A8}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Europe_Ruinberg" ID="{81C1E3F5-4F3F-431B-9779-DE0670550CA1}">
+							<ChildrenList>
+								<Action Name="" ID="{B7EDA8A4-4DEF-4853-98AF-483EF2A6BDDF}" ShortID="849792350">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="riunberg" ID="{4E8951D3-3CE7-44A9-8B27-A7B79859D3BA}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Japan" ID="{35899354-FFAC-4EBA-9620-20868A85A2A8}">
+							<ChildrenList>
+								<Action Name="" ID="{EDE5F09A-8B3A-42FB-BE0F-588A1B3D8351}" ShortID="720385192">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="japan" ID="{9DACEE58-B725-4930-9938-BFC3496C83C0}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Russian_Malinovka" ID="{E6686FE4-E6F6-452E-9123-E164E7B75BB6}">
+							<ChildrenList>
+								<Action Name="" ID="{9CF4E7BC-CE88-4225-B03E-19C8757F4CF7}" ShortID="757181312">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="malinovoka" ID="{D8570A20-0354-4CE1-9884-C4084E9658AE}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Russian_Prokhorovka" ID="{4A8A9197-978E-4CCB-A968-6AE5B432CEE0}">
+							<ChildrenList>
+								<Action Name="" ID="{D1A33D19-4BC9-4009-934A-6C08093B44A6}" ShortID="95178556">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Prokhorovka" ID="{C29C43C9-0DEB-4F68-8C57-B7B6C6E48ECF}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

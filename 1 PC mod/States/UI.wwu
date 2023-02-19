@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{959265A0-7D9B-44FC-A3BA-F465534E3F84}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="UI" ID="{959265A0-7D9B-44FC-A3BA-F465534E3F84}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="STATE_view_play_mode" ID="{2F86C62A-DACD-4A24-BDCD-46C24CB50ECA}">
+					<ChildrenList>
+						<State Name="None" ID="{B2B8C832-3FC4-4D05-8F1B-A1EC763CEFA2}"/>
+						<State Name="STATE_view_play_mode_arcade" ID="{FE082B3C-9020-4B7B-9565-0FBFC48867C0}"/>
+						<State Name="STATE_view_play_mode_sniper" ID="{8F0EBDD5-0511-46A6-AACB-1A17C4A732BD}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

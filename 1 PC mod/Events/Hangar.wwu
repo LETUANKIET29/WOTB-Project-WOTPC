@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F11596B5-05D2-47BF-857A-04FE566851F4}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Hangar" ID="{F11596B5-05D2-47BF-857A-04FE566851F4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Hangar_1_0" ID="{F4AEB49E-03F0-4DD2-A087-E9F6369FC7DB}" ShortID="1032938936">
+					<ChildrenList>
+						<Folder Name="Music" ID="{540F0669-430B-4725-8ED1-3C2BE8D71B81}" ShortID="58124552">
+							<ChildrenList>
+								<Event Name="hangar_ambient_loginscreen_v1_loginscreen" ID="{FD85205C-58F0-4629-9A81-CAE4F6DD572F}">
+									<ChildrenList>
+										<Action Name="" ID="{D958D42E-3ECD-4778-86D6-AFDF80129ADD}" ShortID="542627377">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="New Random Container" ID="{C57B3727-6DB3-4EC0-AB75-2875A19518DD}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+							</ChildrenList>
+						</Folder>
+						<Event Name="play_hang_gen_music_stinger_short" ID="{FD8F1D36-0624-42D7-A981-4053369C90D9}"/>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

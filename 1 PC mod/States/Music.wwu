@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6683A009-91C3-4B03-B48A-ACD8151A32EB}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="Music" ID="{6683A009-91C3-4B03-B48A-ACD8151A32EB}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="STATE_music_volume_fadeout" ID="{33DA08CC-5025-4FF5-BFA4-D2C6227D5DDA}">
+					<ChildrenList>
+						<State Name="None" ID="{D07007BB-6602-4D86-A450-4FB1941277F8}"/>
+						<State Name="STATE_music_volume_off" ID="{1B5DEC1C-F151-471A-B2E5-62A8AFEEC421}"/>
+						<State Name="STATE_music_volume_on" ID="{4D89C18B-F3A3-4B16-B344-4F98A3F9DA72}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

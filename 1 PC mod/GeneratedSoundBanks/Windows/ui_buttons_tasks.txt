@@ -1,0 +1,64 @@
+Event	ID	Name			Wwise Object Path	Notes
+	61909992	GUI_buttons_filter_close			\UI\Buttons\GUI_buttons_filter_close	
+	249985669	GUI_buttons_drag			\UI\Buttons\GUI_buttons_drag	
+	486086440	GUI_buttons_whoosh_prize			\UI\Buttons\GUI_buttons_whoosh_prize	
+	558249019	GUI_buttons_receive_squad_request			\UI\Buttons\GUI_buttons_receive_squad_request	
+	791532684	Music_aftershot_bought_module			\UI\Buttons\Music_aftershot_bought_module	
+	829550459	GUI_buttons_bz_no			\UI\Buttons\GUI_buttons_bz_no	
+	846328012	GUI_buttons_bz_ok			\UI\Buttons\GUI_buttons_bz_ok	
+	906024333	GUI_buttons_play			\UI\Buttons\GUI_buttons_play	
+	906266233	GUI_buttons_box_not_prize			\UI\Buttons\GUI_buttons_box_not_prize	
+	996023010	GUI_buttons_bz_out			\UI\Buttons\GUI_buttons_bz_out	
+	1009425750	GUI_buttons_receive_message			\UI\Buttons\GUI_buttons_receive_message	
+	1197207188	GUI_buttons_bz_new			\UI\Buttons\GUI_buttons_bz_new	
+	1219636047	GUI_buttons_bz_reward			\UI\Buttons\GUI_buttons_bz_reward	
+	1529685199	GUI_buttons_premialization_off			\UI\Buttons\GUI_buttons_premialization_off	
+	1698580741	GUI_buttons_carousel			\UI\Buttons\GUI_buttons_carousel	
+	2009251187	GUI_buttons_sell			\UI\Buttons\GUI_buttons_sell	
+	2213361691	GUI_notifications_FX_task_new			\UI\Buttons\GUI_notifications_FX_task_new	
+	2249070171	GUI_buttons_premialization_on			\UI\Buttons\GUI_buttons_premialization_on	
+	2636141208	GUI_buttons_receive_news			\UI\Buttons\GUI_buttons_receive_news	
+	2754989964	GUI_buttons_hint			\UI\Buttons\GUI_buttons_hint	
+	2963342796	GUI_buttons_filter_open			\UI\Buttons\GUI_buttons_filter_open	
+	3065096487	GUI_buttons_error			\UI\Buttons\GUI_buttons_error	
+	3164709068	GUI_buttons_checkbox			\UI\Buttons\GUI_buttons_checkbox	
+	3575777883	GUI_buttons_module_install			\UI\Buttons\GUI_buttons_module_install	
+	3806586621	GUI_buttons_buy			\UI\Buttons\GUI_buttons_buy	
+	4022012486	GUI_notifications_FX_task_complete			\UI\Buttons\GUI_notifications_FX_task_complete	
+	4285825443	GUI_buttons_box_prize			\UI\Buttons\GUI_buttons_box_prize	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1419538075	RTPC_ext_settings_volume_master_fx			\Settings\RTPC_ext_settings_volume_master_fx	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	2516023	bz_out	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\bz_out_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\bz_out\bz_out		20374
+	24042343	sell	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\sell_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\sell\sell		5113
+	51720007	hint_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\hint_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\hint\hint_01		17233
+	80056219	task_new_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\task_new_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\task_new\task_new_01		12645
+	80603168	hint_02	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\hint_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\hint\hint_02		15973
+	118915726	filter_close	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\filter_close_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\filter_close\filter_close		2671
+	129220885	music after buy	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\music after buy_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\Music_aftershot_bought_module\music after buy		3296
+	134392968	bz_no	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\bz_no_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\bz_no\bz_no		15799
+	139072618	carousel	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\carousel_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\carousel\carousel		729
+	175004088	box_prize	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\box_prize_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\box_prize\box_prize		29607
+	226827157	premialization_off	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\premialization_off_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\premialization_off\premialization_off		10772
+	248685974	checkbox	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\checkbox_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\checkbox\checkbox		2468
+	280597529	bz_new	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\bz_new_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\bz_new\bz_new		22474
+	305541551	bz_reward	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\bz_reward_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\bz_reward\bz_reward		12048
+	340975577	bz_ok	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\bz_ok_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\bz_ok\bz_ok		16014
+	386628299	hint_03	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\hint_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\hint\hint_03		15648
+	399367796	hint_04	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\hint_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\hint\hint_04		18525
+	425544692	play	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\play_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\play\play		52393
+	599129604	premialization_on	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\premialization_on_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\premialization_on\premialization_on		14508
+	623649481	receive_squad_request	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\receive_squad_request_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\receive_squad_request\receive_squad_request		2975
+	648717634	task_complete_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\task_complete_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\task_complete\task_complete_01		14426
+	682460057	receive_message	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\receive_message_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\receive_message\receive_message		1973
+	710964057	box_not_prize	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\box_not_prize_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\box_not_prize\box_not_prize		31289
+	864847160	drag_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\drag_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\drag\drag_01		1435
+	882035650	error_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\error_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\error\error_01		1446
+	944567688	receive_news	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\receive_news_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\receive_news\receive_news		6288
+	950073635	filter_open	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\filter_open_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\filter_open\filter_open		2290
+	982912387	whoosh_prize	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\whoosh_prize_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\whoosh_prize\whoosh_prize		4544
+	1010888235	buy	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\buy_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\buy\buy		5113
+	1019736003	module_install_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\buttons_tasks\module_install_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_buttons_tasks\module_install\module_install_01		12828
+

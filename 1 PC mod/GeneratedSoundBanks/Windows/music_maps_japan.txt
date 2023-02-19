@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3833898907	Music_Japan			\Music\Music_Maps\Music_Japan	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2247086130	STATE_music_volume_fadeout			\Music\STATE_music_volume_fadeout	
+
+State	ID	Name	State Group			Notes
+	748895195	None	STATE_music_volume_fadeout			
+	1929134559	STATE_music_volume_on	STATE_music_volume_fadeout			
+	3659244819	STATE_music_volume_off	STATE_music_volume_fadeout			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	1001640001	STATE_music_volume_off	STATE_music_volume_fadeout	\Actor-Mixer Hierarchy\Default Work Unit\Âm nhạc\nhạc load trận		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	244438798	RTPC_ext_settings_volume_master_music			\Settings\RTPC_ext_settings_volume_master_music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	922741788	japan	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\Music PC\japan_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm nhạc\nhạc load trận\japan		251057
+

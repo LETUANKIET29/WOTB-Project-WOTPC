@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Weapon" ID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Weapon_main" ID="{3154263F-A889-4120-9F06-EA2DB689C3BF}" ShortID="545224540">
+					<ChildrenList>
+						<Event Name="play_wpn_auto_1p" ID="{DA92B3E6-78C0-4C0F-882F-EDBF9F589F62}">
+							<ChildrenList>
+								<Action Name="" ID="{726F92F3-8270-4E44-BD04-520DDA48EEF0}" ShortID="1037016375">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{AF43DE8D-7F33-4DAE-B4A1-E05905B367C9}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{A3E10FD4-997E-431B-89DF-508E3C6C572A}" ShortID="1049964196">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{F30FC1DC-22C3-47D1-B47D-A818347C2F49}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_huge_extra_1p" ID="{064B6EBD-F59C-4F16-B343-20CD0A49C8BF}">
+							<ChildrenList>
+								<Action Name="" ID="{6FFFA405-482F-4261-8A92-E41ED65F83BF}" ShortID="859039183">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{7311EB06-29DF-49F9-88CD-D8A7DC04B185}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{567AE488-7456-4937-AC75-D8A0F060D859}" ShortID="862902014">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{BD839679-57AE-486B-A234-5503F05FE295}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_main_1p" ID="{F3CDE6A4-8225-474D-AB38-2C0FD05ECE73}">
+							<ChildrenList>
+								<Action Name="" ID="{9BB9DC1F-007D-4837-9018-4B8A80201FA3}" ShortID="928042160">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{29B325E1-9164-4D55-81A7-4D76702D12A5}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{AAA0B719-85DF-4600-ACFD-6782F9186563}" ShortID="965756470">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{0E8F97EF-B316-43E4-AC43-CE65E01DB312}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{68C5B607-6FC0-4954-B7D9-5238F3412A60}" ShortID="14380693">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{3715FCDA-21EF-4461-9B6E-0A25EC2ACB86}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{03C08C94-9993-485A-AF0C-C62C4096C3F1}" ShortID="855551147">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{1C733B04-AE43-4579-877D-ADB0C87596E2}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_large_1p" ID="{C119E65F-B029-4D48-A2E8-AE23047EA39E}">
+							<ChildrenList>
+								<Action Name="" ID="{C2BF6EAD-0221-47EE-A556-1F4A05F13C2B}" ShortID="170358508">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{9773557C-C2DD-4460-8E27-583CADDDD640}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{9AE084F1-723E-46BC-81C9-7BD2DCD00F0F}" ShortID="95245592">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{E14AA377-C474-4AC5-90CD-127F85A91CE3}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{F0CE69CE-3F17-4235-99FD-110E07EA1B7E}" ShortID="419731930">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{AD544BC5-D14B-4CCF-BD2B-2AE7496E32B5}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{D4FA654B-EADF-44C3-A8BC-ACC69B759F2C}" ShortID="151426609">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{BE90EE3D-568C-487A-A467-87CBA06D8997}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_huge_extra_3p" ID="{C6FC700D-0A43-459A-A591-D9A4BE5DE352}">
+							<ChildrenList>
+								<Action Name="" ID="{1BE8FB4B-D911-4D15-8930-A04451E1D1CC}" ShortID="591774614">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{517BA196-993D-478E-92FF-6481A31AE247}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{CDF21DDC-A7A7-4097-92F7-E69E23044161}" ShortID="588145827">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{34B3D2C2-A593-44EF-9962-9EB7DE4DE8A3}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{BE096895-4224-4A3E-ADCC-A9C2E47E617A}" ShortID="28638664">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{95697D8B-CCE0-45C1-A011-90FD78EC3833}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{F6F7ECB3-CE84-434F-A27A-62B6CAA37DCE}" ShortID="681391294">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{487CB471-ECBD-4546-9139-7E9A0ECD8AC7}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_large_extra_3p" ID="{31BDD33D-44B7-4342-A2C0-F1A63F4C4399}">
+							<ChildrenList>
+								<Action Name="" ID="{7F584E40-8250-4BA2-93CC-9D8D6E46CC24}" ShortID="220856410">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{A222D6F8-973E-4977-87C1-52A166CBDFAA}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{093573AB-F524-4AD9-84A0-966B4188444F}" ShortID="420794561">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{D4053AF0-0DCF-4174-85A2-2AF4DE05B3CC}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{8158F7FD-7BAA-416A-B151-336ABA062D55}" ShortID="552162149">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{31CF9493-F17F-4A01-9DB7-7FCA0BA2CB45}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{932CF051-54B9-40E5-BE32-E8E4798D016E}" ShortID="480464329">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{FEF3F431-F979-4CDD-9C4A-0FD44AA43B69}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_small_3p" ID="{8478DDFD-757A-4118-BBA0-E89F0844AFFB}">
+							<ChildrenList>
+								<Action Name="" ID="{15B8ED58-CA8F-4715-A0AB-6CD4D54267A5}" ShortID="476303197">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{6CECC47D-9CF5-429B-AD08-8DED19B15D83}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{3E1277C3-9DDA-4360-B222-2A990EC97C0A}" ShortID="951855916">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{83F30FDA-9DFF-4B91-AA25-DC2D06D09BE3}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{93816FB9-C71D-47C8-8115-B64D82D292E4}" ShortID="96504496">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{9FA80F5F-83AE-4476-8441-BC90D5565528}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{23CDE13D-6705-46C9-AF66-08F9C0E68BCF}" ShortID="704436100">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{F5837E83-3BC3-47F2-A21A-BA52460F3CCE}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_mid_3p" ID="{8B9222C3-24E3-4DAB-B184-51A722271CFB}">
+							<ChildrenList>
+								<Action Name="" ID="{DBC487C5-42FD-4EB2-88FE-94A693904F45}" ShortID="765270454">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{F37B7235-F94C-4EE0-BA2A-3C815BC38878}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{A04AE794-EF7F-49B8-8A6D-54173A6F63ED}" ShortID="568436208">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{0E52C07D-277D-41EB-95A6-C48B9BC57CB8}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{03098F2C-60AF-4D8B-ADA8-A5585A4B59CB}" ShortID="84593876">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{C828651E-DCEB-40D8-8D22-C8BC718278F9}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{05D74A92-73C4-4D23-9A96-28B3D0C096E0}" ShortID="89099614">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{53681E7F-C6E5-4AB5-A47D-3E7190735D1E}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_huge_3p" ID="{0411B5F1-37CF-4594-8FF9-6A081149B40E}">
+							<ChildrenList>
+								<Action Name="" ID="{518AEF0D-8248-49C5-9424-8A327D0FA69C}" ShortID="662277227">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{517BA196-993D-478E-92FF-6481A31AE247}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{2C711ACA-8901-4BE2-AB51-CF80BC85A370}" ShortID="437446768">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{34B3D2C2-A593-44EF-9962-9EB7DE4DE8A3}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{D30B4BD6-61B3-41FB-9BCC-006F7021F1A9}" ShortID="254216970">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{95697D8B-CCE0-45C1-A011-90FD78EC3833}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{F1FAF72D-D595-4CE1-9231-D00BF99DDDC0}" ShortID="225279902">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{487CB471-ECBD-4546-9139-7E9A0ECD8AC7}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{BBD274DD-90EE-4D9C-AFCC-685EEB8BA1D2}" ShortID="496694029">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{A222D6F8-973E-4977-87C1-52A166CBDFAA}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{DFC1DCF6-A29D-4BCF-8D53-B6B469D2EEC1}" ShortID="52040932">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{D4053AF0-0DCF-4174-85A2-2AF4DE05B3CC}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{A4FE179C-D05F-4835-B5AA-45BE2ABED0D7}" ShortID="982115458">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{31CF9493-F17F-4A01-9DB7-7FCA0BA2CB45}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{C6BFA6E3-A44D-4001-A055-704A75A2285C}" ShortID="97082973">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{FEF3F431-F979-4CDD-9C4A-0FD44AA43B69}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_main_3p" ID="{50F3C94A-C40D-49A4-8D3A-1DAD824F9F6C}">
+							<ChildrenList>
+								<Action Name="" ID="{29552C76-A751-4084-987F-A9CFBB55A237}" ShortID="454017753">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{6CF0F6B1-D2F7-406B-AC7F-1761DCD887FC}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{C498CB54-715F-4182-933C-5BF7DDBDBB82}" ShortID="813212356">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{BE3BFFC2-CF97-44AF-8A45-A9AB0FBAFC22}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{C6EBBCED-EDD5-48FE-8174-84C87CD85264}" ShortID="528301498">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{4DD9F135-DE0F-471E-96A5-9CDA8787BA7F}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{0EF2F872-0FCC-40FD-9162-9D0B1D746F77}" ShortID="750587475">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{2696B426-494B-4A65-8A78-3ACEEA77087C}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_small_1p" ID="{64482A37-866C-4735-ABB1-F23882DD44C2}">
+							<ChildrenList>
+								<Action Name="" ID="{47F6A6EB-A301-4953-BB24-864E54B42586}" ShortID="437692368">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{1DC4BE56-7565-4A00-8119-E45CEE7BC797}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{483F00BE-7DCE-4CF4-B6F9-A5CD937966B0}" ShortID="134482637">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{FB7438F3-99BE-4820-A65B-2FF40077EAAC}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_large_extra_1p" ID="{CEFDE6E7-AEB4-417E-87F7-685354813230}">
+							<ChildrenList>
+								<Action Name="" ID="{20AB1B8D-1019-4127-B1A6-3FE73FD5CA04}" ShortID="371943127">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{AD544BC5-D14B-4CCF-BD2B-2AE7496E32B5}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{F72C7916-5D97-4DE9-A589-581A4DFF82A1}" ShortID="51902302">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{BE90EE3D-568C-487A-A467-87CBA06D8997}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{BE766BA8-E531-4109-9A74-8D2D7609919E}" ShortID="17580408"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_auto_3p" ID="{91D7E3D4-7A9F-4EC1-AF30-BB2D3C96B731}">
+							<ChildrenList>
+								<Action Name="" ID="{8BE576DA-3E37-428C-8158-18B4D8FAFF87}" ShortID="231688330">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{90A0861F-E12F-4C57-9DAB-D5EB197C1EA7}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{3CE89DB4-2D8C-4591-9256-B3539A670391}" ShortID="561262791">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{7262C10E-8C23-47E2-B723-E867C05F6FAC}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{2E44A8E7-DD8D-432E-B2F1-437DBCD7BE8B}" ShortID="260238481">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{0ADD652E-85FC-4B87-9293-FE5C65E9B5BF}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{96B12306-BBA2-4F9C-941E-0B7BCAE391D9}" ShortID="766536601">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{07C09CD0-ADE3-470A-9C49-E8C942288E46}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_huge_1p" ID="{3AC58D3F-5EC7-4EE6-B2C2-0BE8E2FAFA61}">
+							<ChildrenList>
+								<Action Name="" ID="{1078B8D2-F6F2-4C7F-B8FE-8E83D9D15B22}" ShortID="544310585">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{7311EB06-29DF-49F9-88CD-D8A7DC04B185}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{300C6D0C-E1E2-459C-AE11-837E1054E418}" ShortID="607594299">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{BD839679-57AE-486B-A234-5503F05FE295}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{12A9329C-BC88-4DC4-A161-20C4EFED5460}" ShortID="234834255">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{AD544BC5-D14B-4CCF-BD2B-2AE7496E32B5}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{AF664B01-E486-42C9-9D63-A64940C0E723}" ShortID="237090573">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{BE90EE3D-568C-487A-A467-87CBA06D8997}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_large_3p" ID="{B5374B2F-29CD-41DD-84A0-391541605EBB}">
+							<ChildrenList>
+								<Action Name="" ID="{F7E2CA54-D841-4272-9208-EE3BAA1E422A}" ShortID="608910496">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{4403F40C-B4B3-4E2C-BBDC-1D583A60D933}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{4F86171B-FEFA-4747-A15E-A6C625D0FC19}" ShortID="152287799">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{37B483D4-DB28-4095-BDE3-7B8B3BB6015C}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{1A989FD6-C08D-44FA-AF2D-C82E48E78A5B}" ShortID="276455601">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{A2F3E9A5-9DCD-4309-BA3D-1B6CABCEB06A}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{5C88D30B-15DB-45EA-B617-6517FF111A1B}" ShortID="554100176">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{FBBC9881-8E18-480B-99BB-C317015EF8FF}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{1DE428FC-56F0-4EDD-96E0-E7C5C68BCB4B}" ShortID="705422210">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{A222D6F8-973E-4977-87C1-52A166CBDFAA}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{CE81C298-7F24-46EC-81A7-B081F27AB1F3}" ShortID="863416285">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{D4053AF0-0DCF-4174-85A2-2AF4DE05B3CC}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{FB3434F7-616D-4AAD-ADF7-3AEC127443AD}" ShortID="1070562691">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{31CF9493-F17F-4A01-9DB7-7FCA0BA2CB45}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{B7753F31-26F7-4B6C-BF0B-815382A52B0A}" ShortID="851104671">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{FEF3F431-F979-4CDD-9C4A-0FD44AA43B69}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_mid_1p" ID="{CC161695-EC0F-44E8-9C67-71DCB27BAC58}">
+							<ChildrenList>
+								<Action Name="" ID="{FBD3B255-7EC8-459B-99D3-6971CE727D57}" ShortID="666145345">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{7390A1A3-79F1-407F-8A0B-79313FF1D799}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{B638E4AC-2531-4254-B75D-0637157AF145}" ShortID="431076617">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{33386263-1316-4377-99B4-E18B99DFC298}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_main_extra_3p" ID="{1B381140-E467-4344-BA64-865290E196A6}">
+							<ChildrenList>
+								<Action Name="" ID="{F83BED49-A23D-4817-8908-4A0B3AAFA89D}" ShortID="33372554">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gần" ID="{4CC43110-9088-4AF5-98DA-1B12BC78E423}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{F733B320-ADFC-4EAC-B6B1-77A2C31543E5}" ShortID="710547951">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="100m" ID="{3240E5CC-0CE7-4D63-A96E-876A6862A5E7}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{65096F31-E7AB-43C4-86DD-D0E08AC502BC}" ShortID="631217810">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="200m" ID="{0FA730A5-2F3C-4948-89EB-3DC4853BCEDD}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{6ED91E18-E9B8-4026-98F0-E2E4BBAD6B43}" ShortID="550280706">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="300m" ID="{19AB17A5-6C4D-4B1D-8B2A-D2BB6A74EA00}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_wpn_main_extra_1p" ID="{74445EEF-8F9E-454C-88A1-9B3C6083521B}">
+							<ChildrenList>
+								<Action Name="" ID="{C779F7A6-02B0-4EB6-9405-550F435D6018}" ShortID="630725917">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ngoài" ID="{3715FCDA-21EF-4461-9B6E-0A25EC2ACB86}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{38911C33-90DD-4BCE-9A8F-A690A626BC4E}" ShortID="1067538198">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="trong" ID="{1C733B04-AE43-4579-877D-ADB0C87596E2}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Weapon_basic" ID="{EF32912C-46EA-42C0-B856-5F6AD483BEBC}" ShortID="870076626">
+					<ChildrenList>
+						<Event Name="guns_tracers_tracer_hard" ID="{223AAFDB-4434-4B67-A0C7-9B178D13BF96}">
+							<ChildrenList>
+								<Action Name="" ID="{C780F4F0-6260-4C36-81B5-04025FBD5380}" ShortID="174804877">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Wiz" ID="{8199D10E-AC07-4CB3-8A35-C51D6E3F2287}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="guns_tracers_tracer_light" ID="{BB09CB0B-B220-4EB8-8F8F-8CD9483A5EA4}">
+							<ChildrenList>
+								<Action Name="" ID="{B22B5B7E-F74C-4353-A0EB-2BFE6FAB0B16}" ShortID="80192139">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Wiz" ID="{8199D10E-AC07-4CB3-8A35-C51D6E3F2287}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="guns_tracers_tracer_medium" ID="{837E5726-53A3-45EA-9248-0D6B889A9BA5}">
+							<ChildrenList>
+								<Action Name="" ID="{20D61992-CA5A-46A4-91BD-268AD80B4360}" ShortID="931244990">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Wiz" ID="{8199D10E-AC07-4CB3-8A35-C51D6E3F2287}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="guns_tracers_tracer_tow" ID="{08F01F7B-DFA9-4920-B75E-948D193B065C}">
+							<ChildrenList>
+								<Action Name="" ID="{B74CE95E-19E5-4A2B-A7A7-68690A16738D}" ShortID="883393304">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Wiz" ID="{8199D10E-AC07-4CB3-8A35-C51D6E3F2287}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

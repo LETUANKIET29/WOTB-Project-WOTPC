@@ -1,0 +1,43 @@
+Event	ID	Name			Wwise Object Path	Notes
+	118322016	GUI_notifications_FX_zoom_in			\UI\UI_Battle_Basic\GUI_notifications_FX_zoom_in	
+	816968620	GUI_notifications_FX_base_capture_ally			\UI\UI_Battle_Basic\GUI_notifications_FX_base_capture_ally	
+	830341650	GUI_notifications_FX_timer			\UI\UI_Battle_Basic\GUI_notifications_FX_timer	
+	963711672	GUI_notifications_FX_capture_point_NPC			\UI\UI_Battle_Basic\GUI_notifications_FX_capture_point_NPC	
+	1000076641	GUI_notifications_FX_snipermode_on			\UI\UI_Battle_Basic\GUI_notifications_FX_snipermode_on	
+	1050576842	GUI_notifications_FX_capture_point_PC_end			\UI\UI_Battle_Basic\GUI_notifications_FX_capture_point_PC_end	
+	1065571373	GUI_notifications_FX_snipermode_off			\UI\UI_Battle_Basic\GUI_notifications_FX_snipermode_off	
+	1454231374	GUI_notifications_FX_base_capture_enemy			\UI\UI_Battle_Basic\GUI_notifications_FX_base_capture_enemy	
+	1567669108	GUI_notifications_FX_sight_convergence			\UI\UI_Battle_Basic\GUI_notifications_FX_sight_convergence	
+	2167482407	GUI_notifications_FX_zoom_out			\UI\UI_Battle_Basic\GUI_notifications_FX_zoom_out	
+	2666302740	GUI_notifications_FX_capture_point_PC			\UI\UI_Battle_Basic\GUI_notifications_FX_capture_point_PC	
+	2887313989	GUI_notifications_FX_lamp			\UI\UI_Battle_Basic\GUI_notifications_FX_lamp	
+	3029587518	GUI_notifications_FX_capture_point_NPC_end			\UI\UI_Battle_Basic\GUI_notifications_FX_capture_point_NPC_end	
+	3935336891	GUI_notifications_FX_base_capture_finish			\UI\UI_Battle_Basic\GUI_notifications_FX_base_capture_finish	
+	4094202444	GUI_notifications_FX_enemy_sighted_for_team			\UI\UI_Battle_Basic\GUI_notifications_FX_enemy_sighted_for_team	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1419538075	RTPC_ext_settings_volume_master_fx			\Settings\RTPC_ext_settings_volume_master_fx	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5988601	capture_end	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_end_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\base_capture_finish\capture_end		49174
+	83868608	snipermode_on	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\snipermode_on_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\snipermode_on\snipermode_on		9310
+	128241223	capture_point_PC	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_point_PC_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\capture_point_PC\capture_point_PC		6861
+	264856464	capture_tick_04	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_tick_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\base_capture_enemy\tick\capture_tick_04		688
+	275272395	lamp	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\lamp_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\lamp\lamp		22651
+	341684359	enemy cap base	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\enemy cap base_9EDFC787.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\base_capture_enemy\enemy cap base		104442
+	360455490	capture_tick_03	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_tick_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\base_capture_enemy\tick\capture_tick_03		685
+	397651552	capture_point_NPC	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_point_NPC_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\capture_point_NPC\capture_point_NPC		5768
+	482753760	enemy caping base	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\enemy caping base_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\base_capture_enemy\enemy caping base		34629
+	485567862	capture_point_NPC_end	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_point_NPC_end_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\capture_point_NPC_end\capture_point_NPC_end		10367
+	544645128	sight_convergence 1	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\sight_convergence 1_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\sight_convergence\sight_convergence 1		11417
+	613479010	enemy sighted	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\enemy sighted_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\enemy_sighted_for_team\enemy sighted		9184
+	708557822	capture_point_PC_end	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_point_PC_end_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\capture_point_PC_end\capture_point_PC_end		10367
+	790003751	zoom_out	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\zoom_out_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\zoom_out\zoom_out		4450
+	818831911	time	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\time_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\timer\time		5557
+	821527579	sight_convergence 3	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\sight_convergence 3_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\sight_convergence\sight_convergence 3		11610
+	909829854	zoom_in	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\zoom_in_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\zoom_in\zoom_in		4212
+	931278622	snipermode_off	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\snipermode_off_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\snipermode_off\snipermode_off		11094
+	949178093	sight_convergence 2	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\sight_convergence 2_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\sight_convergence\sight_convergence 2		11516
+	985739246	capture_tick_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_tick_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\base_capture_enemy\tick\capture_tick_01		724
+	1016694985	capture_tick_02	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle_basic\capture_tick_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle_basic\base_capture_enemy\tick\capture_tick_02		742
+

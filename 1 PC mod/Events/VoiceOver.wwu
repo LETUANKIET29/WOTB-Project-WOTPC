@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="VoiceOver" ID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Crew" ID="{5E7EA53F-F86B-4BCD-AA52-4B13AB280A2F}" ShortID="981738396">
+					<ChildrenList>
+						<Event Name="ingame_voice_notifications_VO_ally_killed_by_player" ID="{291B157D-3063-4C87-AF9B-564527E05637}">
+							<ChildrenList>
+								<Action Name="" ID="{224D2CBC-A2FE-4900-A986-5DA8922871B7}" ShortID="1030862872">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="1 giết đồng minh" ID="{CBD1B744-7DC6-484E-A531-FF8E1E99236D}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_ammo_bay_damaged" ID="{CBC3AA27-D832-4D8B-99FE-2B050B84C494}">
+							<ChildrenList>
+								<Action Name="" ID="{15B0AF63-8485-4AD6-B5F4-9BFE439D4154}" ShortID="594088230">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="2 nổ thùng đạn" ID="{742513DE-07F9-4CDF-8C6F-FB1A179A5173}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{BE855B2F-D670-4D77-989E-4C3BC1048272}" ShortID="448092657">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="47 âm thanh hỏng thùng đạn" ID="{E8D5E1AA-229F-4CC3-8F4B-DE9208DC56F7}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_armor_not_pierced_by_player" ID="{F62E72E4-D7EC-415E-81C3-1BF437F0A3BE}">
+							<ChildrenList>
+								<Action Name="" ID="{AA5CBF65-FC5D-4E90-9EDC-EE13BBE42E96}" ShortID="833281614">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="3 không xuyên giáp" ID="{3C6B56B2-CADA-49C6-9772-951F161F47C4}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_armor_pierced_by_player" ID="{BCA10F1A-86D9-4BA0-A4F2-98505DB1C3D5}">
+							<ChildrenList>
+								<Action Name="" ID="{B85A24B9-4EA5-4FD7-B20A-780BDACA7CB7}" ShortID="525433972">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="4 xuyên giáp" ID="{60550CD1-74F9-4ACD-9CCC-F315034213EF}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_armor_pierced_crit_by_player" ID="{1DF7F903-7159-45AC-9564-A949719C878B}">
+							<ChildrenList>
+								<Action Name="" ID="{ACC0C849-9E0F-4ED2-9131-4DDB44749EBC}" ShortID="322543044">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="5 gây thiệt hại lớn" ID="{4FB2F93A-E3DE-48EA-BD45-E202DAA2E392}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_armor_ricochet_by_player" ID="{E0269AE1-4557-4178-B478-38E0FEEDB729}">
+							<ChildrenList>
+								<Action Name="" ID="{959E10AE-E915-4619-98F8-AB7EA233F139}" ShortID="486702991">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="6 nảy đạn" ID="{4E5E553C-8485-4236-9B07-61698F4D959B}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_commander_killed" ID="{13ADFC2F-27B6-488F-B7E5-4783EF841CEC}">
+							<ChildrenList>
+								<Action Name="" ID="{E92FA5D6-10D4-4707-B4C7-99EFD6CE41F1}" ShortID="356331434">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="7 chết chỉ huy" ID="{28EA59C7-8DFB-4E22-85D9-DE6B3BBF2A53}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_driver_killed" ID="{A3D93019-04E0-4B75-BD3A-C21805FB3787}">
+							<ChildrenList>
+								<Action Name="" ID="{86CB79A8-2D14-4AE3-9584-20693A0653A4}" ShortID="640320207">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="8 chết lái xe" ID="{747B1E08-BF72-4BC2-9B22-5A98C2C69377}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_enemy_fire_started_by_player" ID="{AC51C0A8-B48D-4E2B-9374-D3ED7C2DED30}">
+							<ChildrenList>
+								<Action Name="" ID="{5749D73E-1E58-4EFB-924E-ABE07EFE9EA1}" ShortID="691826126">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="9 cháy xe địch" ID="{D1F1C49A-522B-43C5-9B32-96E4D508747C}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_enemy_killed_by_player" ID="{7763DCF8-EE35-44C7-B391-E68E3D73A78D}">
+							<ChildrenList>
+								<Action Name="" ID="{8B47033B-B061-49B8-83E6-CCA72142A695}" ShortID="180380253">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="10 tiêu diệt địch" ID="{6E4C3C0F-CFC9-4962-A588-2A3484B030EF}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_engine_damaged" ID="{1F8862E1-4555-43C2-8465-E8DCAED691BA}">
+							<ChildrenList>
+								<Action Name="" ID="{131D86BE-9805-43DD-B803-E193071F3635}" ShortID="225886131">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="11 động cơ hư hại" ID="{3DB16DB8-BE29-4F11-9614-818DC577FBC0}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_engine_destroyed" ID="{F2EB3E88-B652-4AC6-B079-0C53E678BC25}">
+							<ChildrenList>
+								<Action Name="" ID="{F8D90145-8E20-44DF-8F30-4DFF9372100A}" ShortID="697426789">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="12 hỏng động cơ" ID="{6701F14F-AEFB-444A-99BA-349F8E972E68}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_engine_functional" ID="{C41382ED-F6CD-412A-A041-8D2AE8791156}">
+							<ChildrenList>
+								<Action Name="" ID="{639C7066-678F-4A7A-9981-61F80995C6CF}" ShortID="304216392">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="13 sửa xong động cơ" ID="{E2ECB48B-462E-4A5D-9748-E1A1A358A27D}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_fire_started" ID="{17F810D0-65D0-4C62-BFA8-44277C57228C}">
+							<ChildrenList>
+								<Action Name="" ID="{02F5A0E1-DC36-41C9-B8A9-3991DF8512BC}" ShortID="916519536">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="14 cháy xe" ID="{012E8A57-D657-496D-868C-B1B5D50B0E04}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_fire_stopped" ID="{54BF1F2A-6BFC-4588-821E-52062E061747}">
+							<ChildrenList>
+								<Action Name="" ID="{CF14F103-5CBE-4F18-B00C-8108887F09A7}" ShortID="1069290482">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="15 hết cháy xe" ID="{87B47035-B19A-4F99-8776-431FDE0E902B}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_fuel_tank_damaged" ID="{621D1FB8-A85B-4A75-BDFC-E1426AB2435E}">
+							<ChildrenList>
+								<Action Name="" ID="{9B9F8044-FA49-4CBC-872E-CD3739827A9A}" ShortID="691712270">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="16 thùng xăng hư hại" ID="{E80547A1-714E-4D7A-9404-7D4A607E239D}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{4363EC1A-DFEC-4A84-9092-30EB329401E5}" ShortID="68897872">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="48 âm thanh hỏng thùng dầu" ID="{75093601-4264-42F1-BD7C-EFF99BC7C286}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_gun_damaged" ID="{FAE1463E-29B6-45E5-8087-7CD2EF000569}">
+							<ChildrenList>
+								<Action Name="" ID="{22C97A6B-C417-47EA-98A4-777A043D3FAE}" ShortID="281378313">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="17 súng hư hại" ID="{FA10DAF7-8338-4C02-AA71-DFBB3F0FAD32}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_gun_destroyed" ID="{B8640E6A-EACC-4E10-B5ED-C1C606C3A43C}">
+							<ChildrenList>
+								<Action Name="" ID="{F82A692C-4099-471B-BBE2-8D6C294387B4}" ShortID="199002135">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="18 súng hỏng" ID="{794D0C92-468F-4664-ABB2-C5F1293EF1C0}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_gun_functional" ID="{A96EEABD-88A5-4DE7-BE09-D4E98F9E6F2F}">
+							<ChildrenList>
+								<Action Name="" ID="{79968830-BA8F-4183-8721-B589E5FA5F7D}" ShortID="357095589">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="19 sửa xong súng" ID="{F919CF59-B09C-4FC7-B656-4C90149942D1}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_gunner_killed" ID="{27090875-27D4-4BC1-9DD0-EFB1AEEDF5AD}">
+							<ChildrenList>
+								<Action Name="" ID="{76F3BB24-00B8-4A9A-B24D-B53A51F19C0E}" ShortID="1056707452">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="20 chết pháo thủ" ID="{6F924CA0-C50F-4802-BC63-36BCCA8EE8B3}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_loader_killed" ID="{477CCF92-9F17-4008-BDDF-1EA83F99ECF8}">
+							<ChildrenList>
+								<Action Name="" ID="{A319FD53-B2EA-442E-AF86-9C3CEF101600}" ShortID="662068440">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="21 chết nạp đạn" ID="{B524BAC7-5B3D-4A54-BE7E-BD3B34DF4FC4}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_start_battle" ID="{2D62EAA1-CC04-4A03-A193-E4B744100BAE}">
+							<ChildrenList>
+								<Action Name="" ID="{2A9D0E64-ED49-4623-B31D-2B62FE4DAC9A}" ShortID="326511107">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="24 bắt đầu trận đấu" ID="{2005359E-8DD3-4E92-8B42-9B41159330F1}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_surveying_devices_damaged" ID="{2881479D-296D-4492-B985-D403F30AEA10}">
+							<ChildrenList>
+								<Action Name="" ID="{B91C0460-32B2-43DE-81B1-8D37E52E22B0}" ShortID="825999626">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="25 hư hại thiết bị quan sát" ID="{57EF76C0-703C-4B6A-8A63-95642A67A07A}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{987880A1-C72B-41BA-96B7-6107658944FA}" ShortID="185351704">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="46 âm thanh hỏng modun kính" ID="{13FFF46E-A51D-4DD6-8015-8480BDF52E06}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_surveying_devices_destroyed" ID="{142FACB2-2163-4289-A64F-B7F9416CAB6D}">
+							<ChildrenList>
+								<Action Name="" ID="{9F268FBB-D9E8-4ACF-9D0F-2027C31FC5C1}" ShortID="333553063">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="26 hỏng thiết bị quan sát" ID="{32694782-F6EE-4242-9261-1E2F37ADAE96}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{FE5E4730-FFD6-4230-9CC8-0B834FA11BD0}" ShortID="654828425">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="46 âm thanh hỏng modun kính" ID="{13FFF46E-A51D-4DD6-8015-8480BDF52E06}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_surveying_devices_functional" ID="{9EB7A2A3-161E-4565-B5B5-DE36A3088D7D}">
+							<ChildrenList>
+								<Action Name="" ID="{6F5E6E07-7EBD-41F4-8AD4-760CDEBA62CE}" ShortID="477969729">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="27 đã sửa thiết bị quan sát" ID="{E44C4403-585F-4577-AD32-419244E3A060}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_track_damaged" ID="{B98857C6-69E2-4180-8871-FAE39363BA86}">
+							<ChildrenList>
+								<Action Name="" ID="{2DF6912F-EE92-404D-AA3B-7B424138D928}" ShortID="1062169746">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="28 hư hại xích" ID="{02ACEA14-FCF8-4797-B27B-BE19670F5768}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_track_destroyed" ID="{351789F6-E1EE-4979-B766-D5784F208541}">
+							<ChildrenList>
+								<Action Name="" ID="{07A9A0A3-996E-4831-ABA8-2A217BFA456D}" ShortID="424007267">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="29 đứt xích" ID="{F7B421DB-F4B4-4030-ACCD-1B74564511A4}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_track_functional" ID="{152356F3-649B-4E3E-8783-45CDDF1141FB}">
+							<ChildrenList>
+								<Action Name="" ID="{3D6F8296-E887-4F56-BABC-2C10397BBCE0}" ShortID="1016652766">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="30 nối xong xích" ID="{F41518F5-F786-4939-8EA2-CDA6781A35A0}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_track_functional_can_move" ID="{51EC0EE7-C082-4FA7-983B-9F8DE9D9E656}">
+							<ChildrenList>
+								<Action Name="" ID="{DACA5451-B96E-4542-9E5B-CAB987909DDD}" ShortID="454673493">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="31 nối xong xích hư hại" ID="{670C21D7-6B4C-494C-B2D7-4540F7F369EF}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_turret_rotator_damaged" ID="{0C534E39-1188-4807-9B6F-A880D25DBB15}">
+							<ChildrenList>
+								<Action Name="" ID="{5A11EE67-6A69-47EB-BD25-771B408B64BC}" ShortID="809486690">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="32 hư hại tháp pháo" ID="{D455D3D8-DC35-42FE-B0E9-95E51FC7BCD5}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_turret_rotator_destroyed" ID="{121AAA9A-D2E6-436F-B69E-EE065957304F}">
+							<ChildrenList>
+								<Action Name="" ID="{87D00CAB-CFE2-41EF-80C2-B0F27DFDD140}" ShortID="589437839">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="0.3"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="33 hỏng tháp pháo" ID="{48E7A5AE-228F-4BF8-A277-8DF7CCC09790}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_turret_rotator_functional" ID="{E269CD21-5B45-46AD-8363-5EB89C8061FE}">
+							<ChildrenList>
+								<Action Name="" ID="{17D7AF8B-00B3-400C-AF42-5980FA32977B}" ShortID="160727308">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="34 sửa xong tháp pháo" ID="{D2A8D628-78C2-466B-AE33-2CA9741B60E4}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_vehicle_destroyed" ID="{EE7257DC-F51D-41E1-88AD-74F46747F1ED}">
+							<ChildrenList>
+								<Action Name="" ID="{571A7B1D-778B-44C3-B0E5-912364FBCF5A}" ShortID="866376636">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="35 nổ xe" ID="{9FEB8083-F2AD-4E9B-B4EA-D1E29AB87908}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_positive" ID="{3D2ACF8D-7072-496C-A427-C3223CA75A40}">
+							<ChildrenList>
+								<Action Name="" ID="{CA868580-D699-404F-8E0A-9BA0538AE06E}" ShortID="185944925">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="41 QC đồng ý" ID="{9054D84A-41A8-4A17-AA14-356029FFC8A0}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_negative" ID="{DBCC289A-8554-4596-B8C9-16F190FB61E5}">
+							<ChildrenList>
+								<Action Name="" ID="{46885751-15F4-46FC-ACE6-AB9B6AB0A227}" ShortID="469084274">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="42 QC phản đối" ID="{30B728C5-27E7-419D-B50B-CBAC90FFD5B7}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_help_me" ID="{9399114F-0100-4AC6-8692-6542481D4776}">
+							<ChildrenList>
+								<Action Name="" ID="{67FF8F9C-60B0-4BFA-B087-17C2812939FA}" ShortID="106029436">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="40 QC cần hỗ trợ" ID="{90BE15FD-617C-47EE-8D81-7A960025E5F3}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_attack" ID="{AC393062-55BE-46D2-8CE3-3C025C4EEABC}">
+							<ChildrenList>
+								<Action Name="" ID="{DBF8CC07-B190-4972-901E-89F26368214E}" ShortID="907547646">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="38 QC tấn công" ID="{7EB686D1-E9AB-4CC0-8C36-CA2F2ED57DE1}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_attack_target" ID="{62853CD3-63FB-4494-AACA-47902BBF5683}">
+							<ChildrenList>
+								<Action Name="" ID="{EEB16495-395A-4083-99F0-EF092F8132BC}" ShortID="146529236">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="43 QC tấn công mục tiêu" ID="{1921126E-AB8E-4197-A58E-EA1AEC719F1B}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_reloading" ID="{B50F9AFF-2FA0-4EF7-9B84-DF0B104CB026}">
+							<ChildrenList>
+								<Action Name="" ID="{E4F84F85-FAEA-462C-ABFD-8234096D97BA}" ShortID="124033163">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="39 QC phòng thủ" ID="{7BF03EC2-A654-4AAE-8776-55C8021BF9A5}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_defend_base" ID="{76DD0975-A66E-4205-BB02-B2063A164E13}">
+							<ChildrenList>
+								<Action Name="" ID="{D5A87202-14BE-4CDA-8BBC-964092EB512C}" ShortID="83282772">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="39 QC phòng thủ" ID="{7BF03EC2-A654-4AAE-8776-55C8021BF9A5}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_capture_base" ID="{65AC049B-358E-49FB-8AFF-E6A03FEC10D4}">
+							<ChildrenList>
+								<Action Name="" ID="{358D27CB-6D8C-4A69-994A-E15FA4993A8F}" ShortID="542592411">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="38 QC tấn công" ID="{7EB686D1-E9AB-4CC0-8C36-CA2F2ED57DE1}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_khoa_muc_tieu" ID="{C4B05BDA-D77F-449E-AC6A-E6D2DE7674B8}">
+							<ChildrenList>
+								<Action Name="" ID="{73934187-CCD1-4DDA-BCE8-8AC4880D25BD}" ShortID="229533872">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="44 Khóa mục tiêu" ID="{E58D593C-00A4-47F0-BD78-29ACCDD97E4E}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{B515CB38-115B-4B51-B604-7EF292535484}" ShortID="901684290">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="49 giọng nói khóa mục tiêu" ID="{D69A2488-7CF4-4A84-8DAC-A89CECDAC5EA}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_bo_muc_tieu" ID="{08BD6680-9B4D-4B5E-8806-63813AAFF906}">
+							<ChildrenList>
+								<Action Name="" ID="{F4979ECF-19ED-437B-B372-CF46339D5126}" ShortID="899224589">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="45 bỏ mục tiêu" ID="{C9BA4742-52DD-459D-B5B6-EB0617F0CF96}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{12CF521B-6BCF-48CB-9D6F-7660CD1B3E16}" ShortID="355305648">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="50 giọng nói bỏ muc tiêu" ID="{B95B8884-9345-4789-85D7-511CC03D25C4}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ingame_voice_notifications_VO_nap_dan" ID="{A0328F4D-D5D4-4073-BFC2-D7CE94732142}">
+							<ChildrenList>
+								<Action Name="" ID="{3D4BB6A7-67F7-4BEE-A089-338387B726C8}" ShortID="439990302">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="37 âm thanh nạp đạn" ID="{ADD5A0F5-F1AF-45A6-8E68-E1F808448173}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{01BBCB58-9B4C-4623-A011-A415BD32A70B}" ShortID="581299011">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="36 giọng nói nạp đạn" ID="{36A27F54-ECBC-4053-81D7-30F31CF6E156}" WorkUnitID="{06215C1D-A957-48A8-9B42-210577E78887}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

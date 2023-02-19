@@ -1,0 +1,45 @@
+Event	ID	Name			Wwise Object Path	Notes
+	101854688	GUI_notifications_FX_repair			\UI\UI_Battle\GUI_notifications_FX_repair	
+	197285043	GUI_notifications_FX_furious_start			\UI\UI_Battle\GUI_notifications_FX_furious_start	
+	538634467	GUI_notifications_FX_minimap_attention			\UI\UI_Battle\GUI_notifications_FX_minimap_attention	
+	548718477	GUI_notifications_FX_perk_shooter_max			\UI\UI_Battle\GUI_notifications_FX_perk_shooter_max	
+	656578228	GUI_notifications_FX_auto_target_off			\UI\UI_Battle\GUI_notifications_FX_auto_target_off	
+	659493008	GUI_notifications_FX_stripe			\UI\UI_Battle\GUI_notifications_FX_stripe	
+	1140398382	GUI_notifications_FX_auto_target_on			\UI\UI_Battle\GUI_notifications_FX_auto_target_on	
+	1427981920	GUI_notifications_FX_adrenalin_start			\UI\UI_Battle\GUI_notifications_FX_adrenalin_start	
+	1508192431	GUI_notifications_FX_restorer			\UI\UI_Battle\GUI_notifications_FX_restorer	
+	1748947641	GUI_notifications_FX_shells_open			\UI\UI_Battle\GUI_notifications_FX_shells_open	
+	2324113536	GUI_notifications_FX_medikit			\UI\UI_Battle\GUI_notifications_FX_medikit	
+	2463720184	GUI_notifications_FX_furious_off			\UI\UI_Battle\GUI_notifications_FX_furious_off	
+	2615929259	GUI_notifications_FX_adrenalin_off			\UI\UI_Battle\GUI_notifications_FX_adrenalin_off	
+	2853756191	GUI_notifications_FX_shells_close			\UI\UI_Battle\GUI_notifications_FX_shells_close	
+	3440981630	GUI_notifications_FX_perk_shooter			\UI\UI_Battle\GUI_notifications_FX_perk_shooter	
+	3475065124	GUI_notifications_FX_quick_commands_open			\UI\UI_Battle\GUI_notifications_FX_quick_commands_open	
+	3841720406	GUI_notifications_FX_shells_choose			\UI\UI_Battle\GUI_notifications_FX_shells_choose	
+	3922731664	GUI_notifications_FX_quick_commands_close			\UI\UI_Battle\GUI_notifications_FX_quick_commands_close	
+	4101338519	GUI_notifications_FX_fire_extinguisher			\UI\UI_Battle\GUI_notifications_FX_fire_extinguisher	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1419538075	RTPC_ext_settings_volume_master_fx			\Settings\RTPC_ext_settings_volume_master_fx	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10025412	shell_choose_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\shell_choose_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\shells_choose\shell_choose_01		6178
+	47374996	restorer	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\restorer_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\restorer\restorer		14325
+	71827227	autoaim_off	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\autoaim_off_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\auto_target_off\autoaim_off		18655
+	86039547	adrenalin_start	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\adrenalin_start_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\adrenalin on\adrenalin_start		17954
+	86569855	medikit	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\medikit_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\medikit\medikit		13382
+	153086520	perk_shooter_max	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\perk_shooter_max_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\perk_shooter_max\perk_shooter_max		15137
+	241939077	quick_commands_open	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\quick_commands_open_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\quick_commands_open\quick_commands_open		3992
+	416302963	minimap_attention	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\minimap_attention_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\minimap_attention\minimap_attention		1580
+	425225795	stripe	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\stripe_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\stripe\stripe		12901
+	447996506	furious_start	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\furious_start_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\furious_start\furious_start		17839
+	596028810	perk_shooter	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\perk_shooter_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\perk_shooter\perk_shooter		15137
+	691410741	repair	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\repair_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\repair\repair		15711
+	699114635	adrenalin_off	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\adrenalin_off_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\adrenalin off\adrenalin_off		32052
+	701546273	fire_extinguisher	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\fire_extinguisher_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\fire_extinguisher\fire_extinguisher		9752
+	750316364	autoaim_on	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\autoaim_on_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\auto_target_on\autoaim_on		34934
+	814645226	shell_open_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\shell_open_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\shells_open\shell_open_01		4198
+	816720219	furious_off	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\furious_off_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\furious_off\furious_off		16981
+	913307011	quick_commands_close	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\quick_commands_close_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\quick_commands_close\quick_commands_close		4742
+	941923255	shell_close_01	D:\Download\Mod WOTB\2 Dự án Wwise\1 WwiseProjects\5 - Mod Pack PC\1 PC mod\.cache\Windows\SFX\GUI\battle\shell_close_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Âm thanh GUI\âm lượng tổng\GUI_Battle\shells_close\shell_close_01		3959
+

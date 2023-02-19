@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A759818E-937B-4D55-BEB8-73D97AC498C1}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{A759818E-937B-4D55-BEB8-73D97AC498C1}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="voiceover_crew" ID="{53D8048B-E09F-4F21-A374-38D1B8783B38}">
+					<ObjectInclusionList>
+						<ObjectRef Name="ingame_voice_notifications_VO_loader_killed" ID="{477CCF92-9F17-4008-BDDF-1EA83F99ECF8}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_nap_dan" ID="{A0328F4D-D5D4-4073-BFC2-D7CE94732142}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_engine_functional" ID="{C41382ED-F6CD-412A-A041-8D2AE8791156}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_armor_not_pierced_by_player" ID="{F62E72E4-D7EC-415E-81C3-1BF437F0A3BE}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_armor_ricochet_by_player" ID="{E0269AE1-4557-4178-B478-38E0FEEDB729}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_track_damaged" ID="{B98857C6-69E2-4180-8871-FAE39363BA86}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_vehicle_destroyed" ID="{EE7257DC-F51D-41E1-88AD-74F46747F1ED}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_defend_base" ID="{76DD0975-A66E-4205-BB02-B2063A164E13}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_surveying_devices_destroyed" ID="{142FACB2-2163-4289-A64F-B7F9416CAB6D}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_turret_rotator_destroyed" ID="{121AAA9A-D2E6-436F-B69E-EE065957304F}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_engine_damaged" ID="{1F8862E1-4555-43C2-8465-E8DCAED691BA}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_surveying_devices_damaged" ID="{2881479D-296D-4492-B985-D403F30AEA10}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_attack_target" ID="{62853CD3-63FB-4494-AACA-47902BBF5683}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_khoa_muc_tieu" ID="{C4B05BDA-D77F-449E-AC6A-E6D2DE7674B8}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_enemy_killed_by_player" ID="{7763DCF8-EE35-44C7-B391-E68E3D73A78D}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_surveying_devices_functional" ID="{9EB7A2A3-161E-4565-B5B5-DE36A3088D7D}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_fire_stopped" ID="{54BF1F2A-6BFC-4588-821E-52062E061747}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_negative" ID="{DBCC289A-8554-4596-B8C9-16F190FB61E5}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_armor_pierced_crit_by_player" ID="{1DF7F903-7159-45AC-9564-A949719C878B}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_gun_damaged" ID="{FAE1463E-29B6-45E5-8087-7CD2EF000569}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_turret_rotator_functional" ID="{E269CD21-5B45-46AD-8363-5EB89C8061FE}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_attack" ID="{AC393062-55BE-46D2-8CE3-3C025C4EEABC}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_turret_rotator_damaged" ID="{0C534E39-1188-4807-9B6F-A880D25DBB15}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_commander_killed" ID="{13ADFC2F-27B6-488F-B7E5-4783EF841CEC}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_positive" ID="{3D2ACF8D-7072-496C-A427-C3223CA75A40}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_track_destroyed" ID="{351789F6-E1EE-4979-B766-D5784F208541}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_capture_base" ID="{65AC049B-358E-49FB-8AFF-E6A03FEC10D4}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_start_battle" ID="{2D62EAA1-CC04-4A03-A193-E4B744100BAE}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_fuel_tank_damaged" ID="{621D1FB8-A85B-4A75-BDFC-E1426AB2435E}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_help_me" ID="{9399114F-0100-4AC6-8692-6542481D4776}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_engine_destroyed" ID="{F2EB3E88-B652-4AC6-B079-0C53E678BC25}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_bo_muc_tieu" ID="{08BD6680-9B4D-4B5E-8806-63813AAFF906}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_driver_killed" ID="{A3D93019-04E0-4B75-BD3A-C21805FB3787}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_armor_pierced_by_player" ID="{BCA10F1A-86D9-4BA0-A4F2-98505DB1C3D5}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_gunner_killed" ID="{27090875-27D4-4BC1-9DD0-EFB1AEEDF5AD}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_fire_started" ID="{17F810D0-65D0-4C62-BFA8-44277C57228C}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_ally_killed_by_player" ID="{291B157D-3063-4C87-AF9B-564527E05637}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_ammo_bay_damaged" ID="{CBC3AA27-D832-4D8B-99FE-2B050B84C494}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_gun_functional" ID="{A96EEABD-88A5-4DE7-BE09-D4E98F9E6F2F}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_gun_destroyed" ID="{B8640E6A-EACC-4E10-B5ED-C1C606C3A43C}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_enemy_fire_started_by_player" ID="{AC51C0A8-B48D-4E2B-9374-D3ED7C2DED30}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_track_functional" ID="{152356F3-649B-4E3E-8783-45CDDF1141FB}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_reloading" ID="{B50F9AFF-2FA0-4EF7-9B84-DF0B104CB026}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_track_functional_can_move" ID="{51EC0EE7-C082-4FA7-983B-9F8DE9D9E656}" WorkUnitID="{A4D2E709-2941-41BC-ACAB-1A78F8329763}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="weapon" ID="{E4B909B5-5B66-4BDF-9637-FF9E01DE2682}">
+					<ObjectInclusionList>
+						<ObjectRef Name="play_wpn_small_3p" ID="{8478DDFD-757A-4118-BBA0-E89F0844AFFB}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_huge_3p" ID="{0411B5F1-37CF-4594-8FF9-6A081149B40E}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_huge_extra_3p" ID="{C6FC700D-0A43-459A-A591-D9A4BE5DE352}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_small_1p" ID="{64482A37-866C-4735-ABB1-F23882DD44C2}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_auto_1p" ID="{DA92B3E6-78C0-4C0F-882F-EDBF9F589F62}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_auto_3p" ID="{91D7E3D4-7A9F-4EC1-AF30-BB2D3C96B731}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_huge_1p" ID="{3AC58D3F-5EC7-4EE6-B2C2-0BE8E2FAFA61}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_huge_extra_1p" ID="{064B6EBD-F59C-4F16-B343-20CD0A49C8BF}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="weapon_basic" ID="{73359EEB-1619-4CE2-A22C-EAFFBE718591}">
+					<ObjectInclusionList>
+						<ObjectRef Name="play_wpn_large_extra_1p" ID="{CEFDE6E7-AEB4-417E-87F7-685354813230}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_large_3p" ID="{B5374B2F-29CD-41DD-84A0-391541605EBB}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_large_extra_3p" ID="{31BDD33D-44B7-4342-A2C0-F1A63F4C4399}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_mid_1p" ID="{CC161695-EC0F-44E8-9C67-71DCB27BAC58}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="guns_tracers_tracer_medium" ID="{837E5726-53A3-45EA-9248-0D6B889A9BA5}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_main_1p" ID="{F3CDE6A4-8225-474D-AB38-2C0FD05ECE73}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="guns_tracers_tracer_tow" ID="{08F01F7B-DFA9-4920-B75E-948D193B065C}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_main_3p" ID="{50F3C94A-C40D-49A4-8D3A-1DAD824F9F6C}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="guns_tracers_tracer_hard" ID="{223AAFDB-4434-4B67-A0C7-9B178D13BF96}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_large_1p" ID="{C119E65F-B029-4D48-A2E8-AE23047EA39E}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_wpn_mid_3p" ID="{8B9222C3-24E3-4DAB-B184-51A722271CFB}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="guns_tracers_tracer_light" ID="{BB09CB0B-B220-4EB8-8F8F-8CD9483A5EA4}" WorkUnitID="{3D3EA09E-EA55-42A4-A1E8-7C0433D8313D}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_america_lakville" ID="{B9DCC292-F105-4BB3-A192-2706F626CF91}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_America_Lakville" ID="{50F6F036-4A9B-486A-A1DD-1F0E589DD066}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_america_overlord" ID="{51C00C11-F897-45C5-99C8-25E7CD3379FC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_America_Overlord" ID="{B996DEA0-F6FD-45AF-A858-DB5498314565}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_chinese" ID="{FFBD3B87-2B6A-482D-88B0-8F18D5AF372F}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Chinese" ID="{062309E2-BEA2-4BE2-A8F2-10B2B7250F9F}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_desert_airfield" ID="{5A9B08C6-ACD5-47C8-B12E-4D94DC51ED19}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Desert_Airfield" ID="{74F49F83-2093-4918-B1F2-361B8C797CAC}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_desert_sand_river" ID="{398EB3DC-CE2C-43E8-82EE-7450D4CE007B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Desert_Sand_River" ID="{7D3101C0-967C-4DAA-AF34-BF13D6865170}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_europe_himmelsdorf" ID="{0D866DF0-5157-48AF-88EF-242BD24659BA}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Europe_Himmelsdorf" ID="{02D6A882-94B5-4930-BF34-1D062E779F34}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_europe_mannerheim" ID="{8AC220CA-2996-49B3-B9DE-4D24875B32B3}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Europe_Mannerheim" ID="{8A783361-708A-4B17-9382-9D172661B167}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_europe_ruinberg" ID="{6DEB5214-DBFE-485A-BDA9-4A425143E3F0}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Europe_Ruinberg" ID="{81C1E3F5-4F3F-431B-9779-DE0670550CA1}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_japan" ID="{EDC71AC2-7C62-4D10-A5AC-E1B9A4963FEA}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Japan" ID="{35899354-FFAC-4EBA-9620-20868A85A2A8}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_russian_malinovka" ID="{F249A506-AE0B-42F2-AE86-540ED46A0EFD}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Russian_Malinovka" ID="{E6686FE4-E6F6-452E-9123-E164E7B75BB6}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="music_maps_russian_prokhorovka" ID="{A5356E9C-3BBA-4B15-BEEC-3A38679025B0}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Russian_Prokhorovka" ID="{4A8A9197-978E-4CCB-A968-6AE5B432CEE0}" WorkUnitID="{493DE7EE-033A-4512-9D15-7038E79700D3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="apk" ID="{F190B148-4D8F-4D1C-B71A-89CC49D654C8}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GUI_buttons_ok" ID="{D42D7FCB-74D3-4002-B857-D0014E2EC54B}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_cancel" ID="{D7744F02-9834-45CD-9F57-635005B20088}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="hangar_ambient_loginscreen_v1_loginscreen" ID="{FD85205C-58F0-4629-9A81-CAE4F6DD572F}" WorkUnitID="{F11596B5-05D2-47BF-857A-04FE566851F4}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_close" ID="{BE82E647-99F5-4697-B4E6-EAE443474DFE}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_choose" ID="{4F1DDEEB-1EA1-46F6-B277-3DE76CA7B9F4}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_open" ID="{530251A0-EEA7-48B9-9994-18A5F1E4A7D9}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="ui_battle" ID="{13459310-6EB9-4B7A-8EF2-0BE2DBB55574}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GUI_notifications_FX_repair" ID="{D5C159A1-432A-4057-A14F-5423739D334E}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_medikit" ID="{E0921CC8-A4DA-4161-BE2C-2EE0409E1AE4}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_adrenalin_off" ID="{601A6022-06A7-41F8-A631-126F0C9594AE}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_auto_target_off" ID="{077ED118-4E1F-4200-B8A9-354CE002742D}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_adrenalin_start" ID="{F6E93E0E-07A0-430E-B537-8706529C74DF}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_fire_extinguisher" ID="{71CF0382-FDC4-44EC-92F4-93D8DEC53BA0}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_furious_start" ID="{DC0E4051-32F3-44EF-B2D7-BCB3318F2A5B}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_restorer" ID="{D5C1B30B-CFB9-45A7-9A68-8707C27FC803}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_perk_shooter_max" ID="{EB01485A-8F07-46ED-A4EA-8AA34CEF5439}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_stripe" ID="{137A2592-AF7D-474F-96CF-D57D2725018D}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_shells_open" ID="{D35DA3A2-7156-476C-BFB9-2BD86A16E644}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_close" ID="{F5A3F6DA-66CA-47A8-B4D8-4BE3D5236464}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_minimap_attention" ID="{DCF16353-08E8-48F8-AC1D-291882F7DAEB}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_furious_off" ID="{A6C9AD22-AA4E-49CF-A4B4-2080072BC225}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_perk_shooter" ID="{5C64405E-6FE0-4A7B-91B3-12454D2AD34A}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_shells_close" ID="{E8B6BE8C-CDE9-4C55-BF42-A3BF62E8D6A6}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_open" ID="{DD549FB3-B38D-4C7D-8066-D1DCE79E5326}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_auto_target_on" ID="{DFBD432B-72DE-4D62-A1BC-8A6E364A48DC}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_shells_choose" ID="{62464FFA-1CE6-4DC0-A5B3-889EE926C662}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="ui_battle_basic" ID="{C5C71A6E-0249-4D6A-9715-047923D781C7}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GUI_notifications_FX_base_capture_finish" ID="{1778BA03-EDF1-408C-ADDB-21A6245B367C}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_enemy_sighted_for_team" ID="{F1F95D55-AF4D-4600-89F3-AF61D5667C0E}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_sight_convergence" ID="{E756F9B4-E3DF-4653-80C0-EDE94EEE04D4}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_lamp" ID="{9E17CA36-1945-47B8-9592-9CF1C54CC026}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_base_capture_ally" ID="{AC99D509-05F3-47C2-94FB-5E806D679863}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_base_capture_enemy" ID="{0756FDAC-DAB2-47DD-8114-35DF9BEDA109}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_capture_point_PC" ID="{CC259D6D-2FDF-48C7-8E9D-F1CA4A536630}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_capture_point_NPC_end" ID="{2CE357BB-4983-48D6-85E0-EE6B8E82B9E8}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_capture_point_NPC" ID="{3E434933-1DEC-48F7-9B39-A988F3065995}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_capture_point_PC_end" ID="{69B85080-C5E7-4968-B236-6589A25E13DC}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_timer" ID="{C1B2A9B1-8A7F-4A7A-883E-A0C83C0308DA}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_snipermode_on" ID="{9E4F1150-49B7-4BC1-A605-C2FF6F6F976F}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_zoom_in" ID="{B53E638A-E766-4D54-97F6-0F13D99C59D2}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_snipermode_off" ID="{3774241F-7F32-4E56-A1F9-25F2708CD3A5}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_zoom_out" ID="{544B77AB-E0BC-4F9B-9ED8-24CAA7C0EF68}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="ui_buttons_tasks" ID="{A6BE1D9D-4864-434E-8B56-762D0482CCB6}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GUI_buttons_buy" ID="{97651BBB-6AF8-407B-82B8-5C36F48F45CE}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_checkbox" ID="{3D060189-146F-4101-BA2E-9B31A5E5318F}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_receive_squad_request" ID="{99B48DFD-C887-41AF-9918-69CD6E847BD0}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_bz_out" ID="{2CADD998-1A72-42A2-9082-D440972F8C3B}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_task_complete" ID="{DE790100-5354-4328-B0CC-5052C8F48255}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music_aftershot_bought_module" ID="{83BF490C-4C8B-43D2-8093-CD0C72DF1D54}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_box_not_prize" ID="{70D0ECAB-23D8-43FA-BBBB-CEC4B79E3F4C}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_drag" ID="{BB9BF9D4-D895-44BE-9C67-E9748DED1874}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_bz_ok" ID="{E927DB6B-8E97-45F9-B5FA-CFBE17DFE175}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_premialization_off" ID="{6A9D276C-BD7D-4627-BD62-625834E919C3}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_bz_no" ID="{210A47D4-05F8-4808-BEE6-E9890D8E5C15}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_receive_message" ID="{340D9AD9-A905-480B-AA0F-8CC65B3669D7}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_box_prize" ID="{33795490-BF63-481C-948B-D56D49E7F196}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_carousel" ID="{79B5CFF0-BFCC-48AE-9EF5-6A584C37EA37}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_sell" ID="{8D6A5185-6502-48C0-A45B-7E23AF8F6392}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_task_new" ID="{F13C5FA8-03BD-4907-BE3D-613DF0E3333E}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_premialization_on" ID="{9612F5EB-E02E-49AF-B5B6-7A8AEF8AD1B8}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_receive_news" ID="{2118C37A-29DC-49B0-ACE3-5C7052D1F31C}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_bz_new" ID="{DDE1EC39-BA93-4A0B-BF7E-157E93F571A6}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_bz_reward" ID="{A67B979B-F410-4AB5-8FE5-545358380CD6}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_module_install" ID="{9372B8AD-0982-4B41-A484-9D66096A59DD}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_error" ID="{22F19999-18AC-4D02-AC79-F06BD7A1E5DF}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_hint" ID="{C2637F86-D019-4D17-828C-36D461A14EB7}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_play" ID="{46339DA7-C571-4E6F-8A7F-96F0A3C96C70}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_whoosh_prize" ID="{E28207C0-E9B4-4ED0-9F68-FE3112693F9B}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_filter_close" ID="{5AF133F8-2AAA-4F5F-9597-35D3C5A890F9}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_buttons_filter_open" ID="{C3F044B3-2805-4F68-9DBD-A0627DEA7A10}" WorkUnitID="{6AD499BF-FEF3-43A7-A9C0-B5CA27AE25FB}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
